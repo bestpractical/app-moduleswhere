@@ -2,6 +2,8 @@ Revision history for App-moduleswhere
 
 {{$NEXT}}
 
+    add --no-require option.
+
 0.02   2011-04-28 18:21:51 CST
 
     note about Module::Info.
